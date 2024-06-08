@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MarketApplication.Core/1.0.0": {
+        "runtime": {
+          "MarketApplication.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MarketApplication.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

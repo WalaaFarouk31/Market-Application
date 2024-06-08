@@ -1,0 +1,17 @@
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\bin\Debug\net8.0\MarketApplication.EF.deps.json
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\bin\Debug\net8.0\MarketApplication.EF.runtimeconfig.json
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\bin\Debug\net8.0\MarketApplication.EF.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\bin\Debug\net8.0\MarketApplication.EF.pdb
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\bin\Debug\net8.0\MarketApplication.Core.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\bin\Debug\net8.0\MarketApplication.Core.pdb
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.csproj.AssemblyReference.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.AssemblyInfoInputs.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.AssemblyInfo.cs
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.csproj.CoreCompileInputs.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.csproj.CopyComplete
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\refint\MarketApplication.EF.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.pdb
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.genruntimeconfig.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\ref\MarketApplication.EF.dll

@@ -1,0 +1,11 @@
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\bin\Debug\net8.0\MarketApplication.Core.deps.json
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\bin\Debug\net8.0\MarketApplication.Core.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\bin\Debug\net8.0\MarketApplication.Core.pdb
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.AssemblyInfoInputs.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.AssemblyInfo.cs
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.csproj.CoreCompileInputs.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\refint\MarketApplication.Core.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.pdb
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\ref\MarketApplication.Core.dll

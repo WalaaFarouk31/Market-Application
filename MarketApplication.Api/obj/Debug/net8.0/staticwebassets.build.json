@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZwQhpxb2pGWllbgTgLrhSv2QlRUMS9k5jo9ITjA71iU=",
+  "Source": "MarketApplication.Api",
+  "BasePath": "_content/MarketApplication.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
