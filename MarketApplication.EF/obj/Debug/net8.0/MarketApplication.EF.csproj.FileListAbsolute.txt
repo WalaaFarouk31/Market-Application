@@ -15,3 +15,4 @@ D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\n
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.pdb
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.genruntimeconfig.cache
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\ref\MarketApplication.EF.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.EF\obj\Debug\net8.0\MarketApplication.EF.sourcelink.json

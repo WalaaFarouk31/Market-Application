@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MarketApplication.EF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8469339e3d8e7821dc2942e0b8bacefd86054196")]
 [assembly: System.Reflection.AssemblyProductAttribute("MarketApplication.EF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MarketApplication.EF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,11 +1,9 @@
 ﻿using MarketApplication.Core.Models;
 namespace MarketApplication.Core.Services;
 
-public interface IUnitOfWork:IDisposable
+public interface IUnitOfWork : IDisposable
 {
-    IBaseRepository<Product> Products { get;  }
+    IBaseRepository<Product> Products { get; }
     IBaseRepository<Category> Categories { get; }
-    Task<int> Complete { get; }
-   
+    Task<int> Complete();
 }
-

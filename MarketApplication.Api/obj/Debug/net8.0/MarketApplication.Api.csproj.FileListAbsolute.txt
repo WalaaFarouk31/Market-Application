@@ -138,3 +138,5 @@ D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Api\bin\Debug\
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Api\obj\Debug\net8.0\MarketApplication.Api.sourcelink.json
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Api\bin\Debug\net8.0\AutoMapper.dll

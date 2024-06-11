@@ -13,12 +13,15 @@ public class UnitOfWork:IUnitOfWork
     {
         _context = context;
         Products=new BaseRepository<Product>(_context);
+        Categories = new BaseRepository<Category>(_context);
+
     }
 
-    public IBaseRepository<Product> Products { get;}
-    public IBaseRepository<Category> Categories { get; }
+    public IBaseRepository<Product> Products { get; private set; }
+    public IBaseRepository<Category> Categories { get; private set; }
 
-    public Task<int> Complete => _context.SaveChangesAsync();
+    public async Task<int> Complete() => (await _context.SaveChangesAsync());       
+    
 
     public void Dispose()
     {

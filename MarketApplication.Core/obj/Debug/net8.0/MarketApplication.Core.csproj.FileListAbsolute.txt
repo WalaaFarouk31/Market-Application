@@ -9,3 +9,5 @@ D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\refint\MarketApplication.Core.dll
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.pdb
 D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\ref\MarketApplication.Core.dll
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.csproj.AssemblyReference.cache
+D:\Self Learning\C# Practises\MarketApplication\MarketApplication.Core\obj\Debug\net8.0\MarketApplication.Core.sourcelink.json

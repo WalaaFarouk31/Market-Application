@@ -1,4 +1,4 @@
 ﻿namespace MarketApplication.Core.DTOs;
 
-public record ProductDTO( String Name, double Price,Boolean IsActive, int CategoryId );
+public record ProductDTO( String Name, double Price, Boolean IsActive, int CategoryId);
 

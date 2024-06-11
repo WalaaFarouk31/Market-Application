@@ -15,8 +15,7 @@ public partial class ApplicationDbContext:DbContext
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
-        modelBuilder.Entity<Product>(ConfigureProduct);
-
+        modelBuilder.Entity<Product>(ConfigureProduct);            
         modelBuilder.Entity<Category>(ConfigureCategory);
     }
 

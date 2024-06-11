@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "FJ865Rxpf26AWkG8WecZvdjhTc2Vgg9KUvhwahxfkINnderHKsVHePNrOWv2WAgS/ofIrsDPp1HLcvt0MTi4gA==",
+  "dgSpecHash": "2LaeK+ukR3Fk8VoDxr1Y+undYcVyRgoxInHexOcpEytIWReSWsuqVNAS+B788cz4CHo24jdhV35GU3cU5M7yTw==",
   "success": true,
   "projectFilePath": "D:\\Self Learning\\C# Practises\\MarketApplication\\MarketApplication.Api\\MarketApplication.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

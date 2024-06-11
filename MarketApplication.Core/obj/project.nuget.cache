@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "nXWicTkBXDxFDYFtYf+5rdudh5ZPOsLnEY6SMd/BiPc21d0fpgeW5PfF/B4mWejhqZsHxJZw5tpR9wnyVX26vw==",
+  "dgSpecHash": "90prS+n+tymeK6A8ZCUudxM2JmNHskLQSkWPBi0MQo2/OXgH11EDLLDsxJ2Z+pUfsW2ujtXpwNQatzct+qMVzQ==",
   "success": true,
   "projectFilePath": "D:\\Self Learning\\C# Practises\\MarketApplication\\MarketApplication.Core\\MarketApplication.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Walaa Ashraf\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

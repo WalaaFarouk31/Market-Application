@@ -1,8 +1,10 @@
-﻿using MarketApplication.Core.DTOs;
+﻿using AutoMapper;
+using MarketApplication.Core.DTOs;
 using MarketApplication.Core.Models;
 using MarketApplication.Core.Services;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using MarketApplication.Core.Mapping;
 
 namespace MarketApplication.Api.Controllers
 {
@@ -11,10 +13,12 @@ namespace MarketApplication.Api.Controllers
     public class ProductsController : ControllerBase
     {
         private readonly IUnitOfWork _unitOfWork;
+        private readonly IMapper _mapper;
 
-        public ProductsController(IUnitOfWork unitOfWork)
+        public ProductsController(IUnitOfWork unitOfWork,IMapper mapper)
         {
             _unitOfWork = unitOfWork;
+            _mapper = mapper;
         }
         [HttpGet("GetAllProducts")]
         public async Task<ActionResult> Get()
@@ -33,14 +37,11 @@ namespace MarketApplication.Api.Controllers
         [HttpPost("InsertNewEntity")]
         public async Task<ActionResult> InsertNewEntity(ProductDTO product)
         {
-          Product NewProduct= await _unitOfWork.Products.AddNew(new Product
-            {
-                Name = product.Name,
-                Price = product.Price,
-                CategoryId = product.CategoryId
-            });
 
-            await _unitOfWork.Complete;
+            Product NewProductObject = _mapper.Map<Product>(product);
+            Product NewProduct = await _unitOfWork.Products.AddNew(NewProductObject);
+
+            await _unitOfWork.Complete();
             return Ok(NewProduct);
         }
     }
